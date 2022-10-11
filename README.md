@@ -36,3 +36,9 @@ git push -u origin feature-xx
 ```shell
 gh pr create
 ```
+
+## Check status
+
+```shell
+git status
+```
